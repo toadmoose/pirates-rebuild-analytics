@@ -29,7 +29,6 @@ This project analyzes the current Pirates roster, historical performance, and pr
 - Total Payroll: $38.9M
 - Paul Skenes is the highest WAR player (3.2)
 - Strong pitching foundation with young talent
-- Recommended rebuild strategy focuses on developing core young players while trading veterans for prospects
 
 ## Files
 
